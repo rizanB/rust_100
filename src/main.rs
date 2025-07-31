@@ -1,6 +1,7 @@
-mod day1;
+// mod day1;
+mod day2;
 
-fn main(){
+fn main() {
     println!("hello");
 
     // private function add, says it's a private function
@@ -8,5 +9,13 @@ fn main(){
 
     // day1::basics::main();
 
-    day1::traits::main();
+    // day1::traits::main();
+
+    // day2::loops::main();
+
+    // day2::control_flow::main();
+
+    // day2::binary_search::main();
+
+    day2::enums::main();
 }

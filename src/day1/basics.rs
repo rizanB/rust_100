@@ -1,9 +1,9 @@
 // fn
 fn add(x: i32, y: i32) -> i32 {
-   return x + y;
+    return x + y;
 }
 
-fn greet(name: &str){
+fn greet(name: &str) {
     println!("hello {}", name);
 }
 
@@ -36,8 +36,8 @@ pub fn main() {
     greet(&name);
     println!("from main: {}", name);
 
-    // vectors 
-    let mut numbers = vec![1,2,3];
+    // vectors, i32: unsigned 32-bit integer by default
+    let mut numbers = vec![1, 2, 3];
     numbers.push(4);
     numbers.reverse();
     println!("reversed numbers vector is {:?}", numbers);
