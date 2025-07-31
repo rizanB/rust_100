@@ -1,0 +1,1 @@
+## day 1: variables, constants, ownership, vectors, macro, trait, struct, impl
