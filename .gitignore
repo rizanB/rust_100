@@ -1,1 +1,15 @@
 /target
+
+# ignore os files
+.DS_Store
+Thumbs.db
+
+# ignore vs code workspace settings
+.vscode/
+
+# ignore temporary files
+*.temp
+*.tmp
+
+# ignore logs
+*.log
