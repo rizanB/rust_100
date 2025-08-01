@@ -2,8 +2,6 @@
 mod day2;
 
 fn main() {
-    println!("hello");
-
     // private function add, says it's a private function
     // day1::basics::add(2,2);
 
@@ -17,5 +15,7 @@ fn main() {
 
     // day2::binary_search::main();
 
-    day2::enums::main();
+    // day2::enums::main();
+
+    day2::vocab_cli::main();
 }
