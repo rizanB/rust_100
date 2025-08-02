@@ -1,5 +1,6 @@
 // mod day1;
-mod day2;
+// mod day2;
+mod day3;
 
 fn main() {
     // private function add, says it's a private function
@@ -17,5 +18,7 @@ fn main() {
 
     // day2::enums::main();
 
-    day2::vocab_cli::main();
+    // day2::vocab_cli::main();
+
+    day3::interest::main();
 }
