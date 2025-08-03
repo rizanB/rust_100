@@ -5,7 +5,7 @@ This repository contains my code as I learn rust for 100 days.
 - [x] day 1: variables, constants, ownership, vectors, macro, trait, struct, impl
 - [x] day 2: loops, control flow, enums, binary search, hashmap, cli
 - [x] day 3: tests, doc comments, panic
-- [ ] day 4: io
+- [x] day 4: io
 
 plan: rust basics → dsa → ml from scratch
 
