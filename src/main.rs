@@ -1,3 +1,5 @@
+use rust_100::day4;
+
 // mod day1;
 // mod day2;
 mod day3;
@@ -20,5 +22,7 @@ fn main() {
 
     // day2::vocab_cli::main();
 
-    day3::interest::main();
+    // day3::interest::main();
+
+    day4::io::main();
 }
