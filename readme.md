@@ -6,6 +6,7 @@ This repository contains my code as I learn rust for 100 days.
 - [x] day 2: loops, control flow, enums, binary search, hashmap, cli
 - [x] day 3: tests, doc comments, panic
 - [x] day 4: io
+- [x] day 5: types (Result<T,E>, Option<T>)
 
 plan: rust basics → dsa → ml from scratch
 
