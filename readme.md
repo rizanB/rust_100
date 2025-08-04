@@ -19,7 +19,7 @@ plan: rust basics → dsa → ml from scratch
 - [ ] fun architectures: kan, autoenc variants
 
 note_to_self: gaps to cover:
-- [ ] Result<T,E>, Option<T>
+- [x] Result<T,E>, Option<T>
 - [ ] advanced error handling
 - [ ] lifetimes & borrowing
 - [ ] advanced traits and generics

@@ -1,8 +1,8 @@
-use rust_100::day4;
+use rust_100::day5;
 
 // mod day1;
 // mod day2;
-mod day3;
+// mod day3;
 
 fn main() {
     // private function add, says it's a private function
@@ -24,5 +24,5 @@ fn main() {
 
     // day3::interest::main();
 
-    day4::io::main();
+    day5::types::main();
 }
